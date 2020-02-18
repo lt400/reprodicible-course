@@ -1,0 +1,74 @@
+---
+title: "My Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+
+---
+
+# Introduction {#introduction-header}
+This is an introduction to reproducibility in R
+
+## Starting with RStudio 
+This is R studio 
+
+### Opening in RStudio 
+Show the different panes 
+
+You can add **bold text** or __bold text with underscores__ 
+You can also use *italics text* with _single underscore_ 
+Adding superscript ^hello^ 
+Adding subscript using ~tilde~
+
+Add inline code using the backtick `to write code` 
+
+Use strikethough text ~~double tilde~~ 
+
+
+
+
+[link to intro](#introduction-header)
+
+
+tasks (only works in github)
+
+- []
+- [x]
+
+link to websites
+[link to google](https://google.com)
+
+![cow](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cow_on_Pupers.jpg/250px-Cow_on_Pupers.jpg)
+
+## Tables 
+
+
+you can create tables using 
+
+
+| Column header | Another column |
+| ------------- | -------------- |
+| first row     | lori is hugnry |
+| second row    |  testing       | 
+
+
+> A greater than sign creates blocks 
+
+testing 
+
+
+```{r}
+
+
+```
+
+
+
+
+
+
+
+
+
+
